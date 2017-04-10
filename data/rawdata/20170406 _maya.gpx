@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?><gpx version="1.0" creator="GPSLogger 86 - http://gpslogger.mendhak.com/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd"><time>2017-04-06T04:05:44.828Z</time><trk><trkseg><trkpt lat="40.4338423" lon="-79.9531074"><time>2017-04-06T04:05:44.828Z</time><src>network</src></trkpt>
+<trkpt lat="40.4338423" lon="-79.9531074"><time>2017-04-06T04:15:46.049Z</time><src>network</src></trkpt>
+<trkpt lat="40.4338423" lon="-79.9531074"><time>2017-04-06T04:26:44.355Z</time><src>network</src></trkpt>
+<trkpt lat="40.4338576" lon="-79.9532822"><time>2017-04-06T04:36:46.583Z</time><src>network</src></trkpt>
+<trkpt lat="40.4338489" lon="-79.9531432"><time>2017-04-06T04:46:48.467Z</time><src>network</src></trkpt>
+<trkpt lat="40.4338144" lon="-79.9532385"><time>2017-04-06T04:57:15.171Z</time><src>network</src></trkpt>
+<trkpt lat="40.43395074" lon="-79.95318023"><ele>245.0</ele><time>2017-04-06T05:16:11.400Z</time><course>29.9</course><speed>0.66</speed><geoidheight>-43.0</geoidheight><src>gps</src><hdop>1.1</hdop><vdop>1.6</vdop><pdop>1.9</pdop></trkpt>
+<trkpt lat="40.4338423" lon="-79.9531074"><time>2017-04-06T05:26:51.634Z</time><src>network</src></trkpt>
+<trkpt lat="40.4338067" lon="-79.9531511"><time>2017-04-06T05:36:54.239Z</time><src>network</src></trkpt>
+<trkpt lat="40.4338423" lon="-79.9531074"><time>2017-04-06T05:46:56.175Z</time><src>network</src></trkpt>
+<trkpt lat="40.4338423" lon="-79.9531074"><time>2017-04-06T05:57:34.906Z</time><src>network</src></trkpt>
+<trkpt lat="40.4338932" lon="-79.9532385"><time>2017-04-06T06:07:53.561Z</time><src>network</src></trkpt>
+<trkpt lat="40.4338423" lon="-79.9531074"><time>2017-04-06T06:18:48.119Z</time><src>network</src></trkpt>
+<trkpt lat="40.43377937" lon="-79.95310121"><ele>252.0</ele><time>2017-04-06T06:28:53.409Z</time><course>221.3</course><speed>0.78</speed><geoidheight>-43.0</geoidheight><src>gps</src><hdop>1.1</hdop><vdop>1.7</vdop><pdop>2.1</pdop></trkpt>
+<trkpt lat="40.4437225" lon="-79.993616"><time>2017-04-07T03:25:34.939Z</time><src>network</src></trkpt>
+<trkpt lat="40.4437225" lon="-79.993616"><time>2017-04-07T03:35:35.764Z</time><src>network</src></trkpt>
+<trkpt lat="40.4437225" lon="-79.993616"><time>2017-04-07T03:46:11.914Z</time><src>network</src></trkpt>
+<trkpt lat="40.4437225" lon="-79.993616"><time>2017-04-07T03:56:05.074Z</time><src>network</src></trkpt>
+</trkseg></trk></gpx>
