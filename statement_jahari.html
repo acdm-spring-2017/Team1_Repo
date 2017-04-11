@@ -43,7 +43,7 @@
 
     <div class="blog-header jahari">
       <h1 class="blog-title">Jahari</h1>
-      <p class="lead blog-description">Sub title</p>
+      <p class="lead blog-description">Mapping My Life:Contributions,Challenges and Reflection</p>
     </div>
 
     <div class="row">
@@ -52,25 +52,48 @@
 
         <div class="blog-post">
 
-
-
           <hr>
-          <div class="h2 jahari">Header</div>  
-          <a href="index.html">link example</a>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc feugiat risus id nibh gravida maximus. Proin sagittis finibus nisi, vel volutpat lacus tempor nec. Suspendisse viverra enim id semper finibus. Proin accumsan rhoncus dolor, quis dignissim urna ornare sit amet. Ut id tincidunt odio, ut mollis nibh. Fusce sem nisi, convallis id interdum nec, dictum quis leo. Proin id elementum libero. Morbi gravida purus orci, et efficitur tellus viverra eget. Morbi nec ornare dolor. Quisque maximus leo eu consectetur posuere. Sed ornare elementum augue, non porta metus luctus nec. Donec eu turpis et dui ultrices accumsan eget et magna. Phasellus vitae mi eget orci semper venenatis id non ante. Duis pretium, erat non ornare tempor, dolor libero scelerisque ante, tempor mattis nisi ipsum et lorem. Sed a dictum odio.
-
-            Aliquam erat volutpat. Nullam ut arcu vehicula urna posuere pellentesque. Maecenas fringilla erat enim, non vehicula quam facilisis ac. Donec suscipit aliquam risus, at molestie erat. Nullam velit nisl, lobortis quis justo a, gravida tristique nibh. Curabitur eu odio ut leo suscipit euismod sit amet convallis libero. Aenean aliquam accumsan justo, eu mattis mi. Aenean auctor efficitur tempus. Pellentesque rutrum fermentum urna ut lacinia. Nunc a volutpat est, nec fermentum erat. Aenean rhoncus vehicula nisl, at consectetur mi tempus vel.
-
-            Morbi et enim viverra massa bibendum porta vel sed nunc. Nullam quis ullamcorper est. Sed id risus in nibh vehicula laoreet. Fusce commodo, felis quis facilisis facilisis, augue nisi convallis felis, ac tempus leo nisl nec nunc. Sed sagittis, mauris sed finibus pulvinar, mi eros sollicitudin libero, non tincidunt ex purus eget leo. Donec at tempus nulla. Praesent ultricies ligula at aliquet maximus. Integer pharetra elementum est, a porttitor nisl mattis at. Donec scelerisque, quam vitae viverra consequat, velit augue gravida odio, sed dapibus augue lectus quis eros. Phasellus semper nunc eget rutrum ullamcorper. Sed dapibus, ex blandit ornare elementum, nulla leo fermentum turpis, ac malesuada magna enim dignissim odio. Integer tempor arcu quis eleifend dictum. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In vitae varius nulla, ac tristique turpis. Praesent aliquet dolor quis sem volutpat, sit amet suscipit nulla lacinia.
-
-            Suspendisse pharetra, turpis vel pulvinar placerat, libero nisl ultrices dui, et egestas metus dui quis erat. Nulla eget enim sollicitudin, pharetra lacus eu, euismod magna. Vivamus vel odio sodales, sodales massa eu, volutpat metus. Pellentesque molestie vulputate commodo. Proin non nisi eu massa venenatis pellentesque. Duis venenatis auctor lacinia. Maecenas aliquam tempus nibh quis consectetur. Nullam dignissim dignissim erat, in rutrum ipsum semper sed. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse potenti. In sit amet feugiat elit. Nunc in accumsan lacus. Praesent eget massa et nibh mattis lobortis ut sed velit.
-
-            In lacinia justo at varius posuere. Morbi ut arcu vitae ante vehicula vehicula vitae vel dui. Vivamus euismod quam posuere blandit dictum. Aliquam sit amet ligula dictum, posuere neque in, congue lectus. Nullam convallis mauris metus, sit amet gravida lectus mollis at. Vestibulum rutrum, ipsum et sodales hendrerit, metus urna tincidunt lorem, tincidunt euismod felis ipsum vitae eros. Praesent nisl lacus, suscipit nec massa ac, commodo euismod sem. Nullam quam nulla, finibus eleifend felis at, ultrices luctus eros. Quisque laoreet dui a interdum mollis. Fusce scelerisque congue nibh. Quisque ex lacus, consectetur nec molestie nec, faucibus in magna. Sed luctus massa ut augue fermentum aliquet. Nam rutrum pellentesque dignissim. Donec sit amet nisi tempor, sollicitudin odio a, aliquam elit. Integer lorem nibh, rhoncus nec nisl at, faucibus luctus mi. </p>
-
+          <div class="h2 jahari">Contribution</div>  
+          <p>My main job during this project was to map the data collected from each of my group members onto a Bokeh plot with a base
+            of google maps. The first aspect that had to be covered in this process was establishing how to lay bokeh over a plot of google
+            maps. Once that code was identified, we then had to obtain an API key from Google Maps in order to use Google Maps for this project. 
+            Now it was time to break down the data. Kat created a .csv file with everyone's latitude and longitude points for the past week. Connor
+            then walked me through how to split the csv file so that we could isolate each person's specific latitude and longitude point so that 
+            each group member had a specific set of values. The next step was to then plot all of the location points in different colors so that 
+            the user can see what places the five of us frequent the most and which places we each frequent individually. Once that was done, we then
+            brainstromed how to make this more interactive than just being able to zoom in. So my job then was to add buttons to the plot so that you could 
+            select what students you wanted to see in order to selectively look at each student individually. Getting those buttons to work was exciting
+            becasue it gave the user the oppurtunity to see who has what in common. Knowing more about the person you can then add more context to 
+            the person's locations. A good example is myself and Connor. Conner and I both live in the same residence hall so if you plot our lives, you see
+            alot of dots around our residence hall. However, we each have different majors so that is where some of the sepration in our location comes.             
+          </p>
+          
+          <div class="h2 jahari">Challenges</div>
+          <p>
+            Some of the challenges faced in creating this piece were really making this event look astectically pleasing. When coding in an way, shape, or fashion
+            there are always going to be bugs and syntax errors. Many of the times it would be that I forgot a parentheses but in other cases it owuld be that my 
+            approach to the problem was failing me. For example in getting the buttons to work, I created variables to serve as obects within the code to be 
+            executed when the user clicked on the button. However that did not work so instead through some experimentation, we found that the object had to be a 
+            direct command line. Another thing we noticed in our use of the different tracking softwares was that some of the points listed were places we had never attended.
+            We didn't really have time to go through  and remove each point that didn't seem realistic but we did note that as a challenge of using predesigned software. 
+            The last challenge we ran into was displaying the map directly onto the homepage and scaling off the excess Google maps. Thankfully
+            Connor was able to fix this issue and provide a more elegant looking display of the map. 
+          </p>
+          
+          <div class="h2 jahari">Reflection</div>
+          <p>
+            I loved doing this project. It was exciting to see where all five of our different lives take us on a weekly basis. It was interesting to see 
+            how the little we knew about each other grew as we learned more about each others routines and frequent places. It was also cool to see the places our 
+            different majors takes us. For example most of my classes are in Benedum Hall so it was cool to see my dots pop up there. However no one else on my team 
+            was an engineer so it made since that I was the only one that frequented that building. We all though each had one or more classes in the Cathedral and
+            therefore that was one common place among each of us. One of the deeper reflections I had from this project was the evils that this data could eb used for. 
+            If we had looked deeper into the time and days in which each of us went to those locations, I could easily make a plot against any member of this group. 
+            I also would be able to track your whereabouts and make assumptions about your activities and what you do and expose you in any manor of way. In compiling 
+            this map, all I could think of was what the potential of this constant data could do and the evils that could from it. This project was definetly an eye opening
+            experience.   
+          </p>  
 
           </div><!-- /.blog-post -->
-
-
 
 
     <!-- Bootstrap core JavaScript

@@ -18,7 +18,20 @@ h6, .h6 {
   font-weight: normal;
 }
 
+.bk-root .bk-bs-btn-success {
+    color: #fff;
+    background-color: #696969;
+    border-color: #e9e9e9
+}
 
+.bk-root .bk-bs-btn-success:hover {
+  background-color: #000;
+  border-color: #001;
+}
+
+.marginfriend {
+  margin: 1%;
+}
 /*
  * Override Bootstrap's default container.
  */
