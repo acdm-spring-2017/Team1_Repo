@@ -50,8 +50,17 @@ h6, .h6 {
 }
 .blog-nav-item:hover,
 .blog-nav-item:focus {
-  color: #000;
+  color: #696969;
   text-decoration: none;
+}
+
+.home-blog-nav-item {
+  position: relative;
+  display: inline-block;
+  padding: 10px;
+  font-weight: 500;
+  font-size: 32px;
+  color: #fff;
 }
 
 /* Active state gets a caret at the bottom */
@@ -77,6 +86,8 @@ a {
   color: #99d3df;
 }
 
+
+
 /*
  * Blog name and description
  */
@@ -86,24 +97,58 @@ a {
   padding-bottom: 20px;
 }
 
+/* making these colors consistent */
+
+.basecolor {
+  color:#696969;
+}
+
 .connor {
-  color: #70b7ba;
+  color: #D13863;
+}
+
+.connorbg {
+  background-color: #D13863; 
 }
 
 .jahari {
-  color: #bc54cf;
+  color: #EBB523;
+}
+
+.jaharibg {
+  background-color: #EBB523; 
 }
 
 .jiayin {
-  color: #a9cf54;
+  color: #9ABF2D;
+}
+
+.jiayinbg {
+  background-color: #9ABF2D; 
 }
 
 .katherine {
-  color: #f1433f;
+  color: #42A4BF;
+}
+
+.katherinebg {
+  background-color: #42A4BF; 
 }
 
 .maya {
-  color: #f7e967;
+  color: #AE3FD3;
+}
+
+.mayabg {
+  background-color: #AE3FD3; 
+}
+
+.btn {
+  color: #fff;
+}
+
+.col-md-4 {
+  padding-bottom: 25px;
 }
 
 .blog-title {
@@ -172,6 +217,10 @@ a {
 .blog-post-meta {
   margin-bottom: 20px;
   color: #999;
+}
+
+.search {
+  width:25%;
 }
 
 
