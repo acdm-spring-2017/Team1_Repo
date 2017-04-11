@@ -4,6 +4,7 @@
 
 body {
   color: #e9e9e9;
+  
 }
 
 h1, .h1,
@@ -15,7 +16,6 @@ h6, .h6 {
   margin-top: 0;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: normal;
-  color: #88bbd6;
 }
 
 
@@ -35,7 +35,7 @@ h6, .h6 {
  */
 
 .blog-masthead {
-  background-color: #cdcdcd;
+  background-color: #000;
   -webkit-box-shadow: inset 0 -2px 5px rgba(0,0,0,.1);
           box-shadow: inset 0 -2px 5px rgba(0,0,0,.1);
 }
@@ -56,7 +56,7 @@ h6, .h6 {
 
 /* Active state gets a caret at the bottom */
 .blog-nav .active {
-  color: #e9e9e9;
+  
 }
 .blog-nav .active:after {
   position: absolute;
@@ -85,6 +85,27 @@ a {
   padding-top: 20px;
   padding-bottom: 20px;
 }
+
+.connor {
+  color: #70b7ba;
+}
+
+.jahari {
+  color: #3d4c53;
+}
+
+.jiayin {
+  color: #a9cf54;
+}
+
+.katherine {
+  color: #f1433f;
+}
+
+.maya {
+  color: #f7e967;
+}
+
 .blog-title {
   margin-top: 30px;
   margin-bottom: 0;
