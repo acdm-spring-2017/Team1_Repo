@@ -19,15 +19,21 @@ h6, .h6 {
 }
 
 .bk-root .bk-bs-btn-success {
-    color: #fff;
-    background-color: #696969;
-    border-color: #e9e9e9
+  color: #fff;
+  background-color: #696969;
+  border-color: #e9e9e9
 }
 
 .bk-root .bk-bs-btn-success:hover {
   background-color: #000;
   border-color: #001;
 }
+
+.bk-root .bk-root .bk-bs-btn-success:focus, .bk-root .bk-bs-btn-success:active, .bk-root .bk-bs-btn-success.bk-bs-active, .bk-bs-open .bk-bs-dropdown-toggle.bk-root .bk-bs-btn-success {
+  background-color: #696969;
+  border-color: #e9e9e9
+}
+
 
 .marginfriend {
   margin: 1%;
