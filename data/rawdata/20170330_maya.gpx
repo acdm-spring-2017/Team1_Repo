@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?><gpx version="1.0" creator="GPSLogger 86 - http://gpslogger.mendhak.com/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd"><time>2017-03-30T21:28:22.788Z</time><trk><trkseg><trkpt lat="40.4434802" lon="-79.9547246"><time>2017-03-30T21:28:22.788Z</time><src>network</src></trkpt>
+<trkpt lat="40.4434802" lon="-79.9547246"><time>2017-03-30T21:29:26.595Z</time><src>network</src></trkpt>
+<trkpt lat="40.4434802" lon="-79.9547246"><time>2017-03-30T21:30:39.840Z</time><src>network</src></trkpt>
+<trkpt lat="40.4434802" lon="-79.9547246"><time>2017-03-30T21:42:29.594Z</time><src>network</src></trkpt>
+<trkpt lat="40.4434802" lon="-79.9547246"><time>2017-03-30T21:52:41.393Z</time><src>network</src></trkpt>
+<trkpt lat="40.4434802" lon="-79.9547246"><time>2017-03-30T22:02:50.372Z</time><src>network</src></trkpt>
+<trkpt lat="40.4434802" lon="-79.9547246"><time>2017-03-30T22:13:20.844Z</time><src>network</src></trkpt>
+<trkpt lat="40.4444335" lon="-79.954812"><time>2017-03-30T22:24:01.454Z</time><src>network</src></trkpt>
+<trkpt lat="40.4337279" lon="-79.9531511"><time>2017-03-30T22:34:36.976Z</time><src>network</src></trkpt>
+<trkpt lat="40.4338423" lon="-79.9531074"><time>2017-03-30T22:44:41.734Z</time><src>network</src></trkpt>
+<trkpt lat="40.4338423" lon="-79.9531074"><time>2017-03-30T22:54:44.459Z</time><src>network</src></trkpt>
+<trkpt lat="40.4338423" lon="-79.9531074"><time>2017-03-30T23:04:59.315Z</time><src>network</src></trkpt>
+<trkpt lat="40.4338423" lon="-79.9531074"><time>2017-03-30T23:15:25.471Z</time><src>network</src></trkpt>
+<trkpt lat="40.4338423" lon="-79.9531074"><time>2017-03-30T23:25:27.479Z</time><src>network</src></trkpt>
+<trkpt lat="40.4338423" lon="-79.9531074"><time>2017-03-30T23:35:29.706Z</time><src>network</src></trkpt>
+<trkpt lat="40.43374821" lon="-79.9531646"><ele>261.0</ele><time>2017-03-31T00:20:37.000Z</time><course>169.9</course><speed>0.71</speed><geoidheight>-43.0</geoidheight><src>gps</src><sat>3</sat><hdop>0.8</hdop><vdop>0.7</vdop><pdop>1.1</pdop></trkpt>
+<trkpt lat="40.4338423" lon="-79.9531074"><time>2017-03-31T00:30:41.792Z</time><src>network</src></trkpt>
+<trkpt lat="40.4337279" lon="-79.9531511"><time>2017-03-31T00:40:39.612Z</time><src>network</src></trkpt>
+<trkpt lat="40.4338423" lon="-79.9531074"><time>2017-03-31T00:50:44.949Z</time><src>network</src></trkpt>
+<trkpt lat="40.4338067" lon="-79.9531511"><time>2017-03-31T01:01:41.845Z</time><src>network</src></trkpt>
+<trkpt lat="40.4338423" lon="-79.9531074"><time>2017-03-31T01:12:02.696Z</time><src>network</src></trkpt>
+<trkpt lat="40.4338423" lon="-79.9531074"><time>2017-03-31T01:29:44.312Z</time><src>network</src></trkpt>
+<trkpt lat="40.4338423" lon="-79.9531074"><time>2017-03-31T01:40:02.510Z</time><src>network</src></trkpt>
+<trkpt lat="40.4338423" lon="-79.9531074"><time>2017-03-31T01:50:09.727Z</time><src>network</src></trkpt>
+<trkpt lat="40.4341144" lon="-79.9530636"><time>2017-03-31T02:01:06.358Z</time><src>network</src></trkpt>
+<trkpt lat="40.4338423" lon="-79.9531074"><time>2017-03-31T02:11:08.586Z</time><src>network</src></trkpt>
+<trkpt lat="40.4338423" lon="-79.9531074"><time>2017-03-31T02:22:01.596Z</time><src>network</src></trkpt>
+<trkpt lat="40.4338423" lon="-79.9531074"><time>2017-03-31T02:32:14.363Z</time><src>network</src></trkpt>
+<trkpt lat="40.4338423" lon="-79.9531074"><time>2017-03-31T02:42:32.053Z</time><src>network</src></trkpt>
+<trkpt lat="40.4338423" lon="-79.9531074"><time>2017-03-31T02:53:05.463Z</time><src>network</src></trkpt>
+<trkpt lat="40.4338423" lon="-79.9531074"><time>2017-03-31T03:03:30.861Z</time><src>network</src></trkpt>
+<trkpt lat="40.4338423" lon="-79.9531074"><time>2017-03-31T03:14:10.510Z</time><src>network</src></trkpt>
+<trkpt lat="40.4338423" lon="-79.9531074"><time>2017-03-31T03:24:12.973Z</time><src>network</src></trkpt>
+<trkpt lat="40.4338423" lon="-79.9531074"><time>2017-03-31T03:34:14.860Z</time><src>network</src></trkpt>
+<trkpt lat="40.4338423" lon="-79.9531074"><time>2017-03-31T03:45:32.739Z</time><src>network</src></trkpt>
+<trkpt lat="40.4338278" lon="-79.9531063"><time>2017-03-31T03:56:12.343Z</time><src>network</src></trkpt>
+</trkseg></trk></gpx>
